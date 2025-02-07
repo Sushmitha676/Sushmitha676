@@ -3,6 +3,6 @@ Hi Sir/Madam, welcome to my repository. This repository is all about myself I ho
 - 👀 I’m interested in Photography, Drawing, Watching TV
 - 🌱 I’m currently learning Python, SQL, MS-Excel
 - 💞️ I’m looking to collaborate on realtime projects 
-- 📫 How to reach me bandlasushmitha@gmail.com
+- 📫 How to reach me bandlasushmitha6@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play in water!
